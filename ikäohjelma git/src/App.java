@@ -2,7 +2,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         int ika = 20;
 
-// tulostusehdot
 
 // if (ika >= 0 && ika < 18) { 
 //     System.out.println("Olet alaikäinen");
@@ -64,4 +63,5 @@ public class App {
         System.out.println("Olet aikuinen");
     }
     }
+
 }
