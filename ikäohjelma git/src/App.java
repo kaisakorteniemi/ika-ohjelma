@@ -2,25 +2,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         int ika = 20;
 
-
-// if (ika >= 0 && ika < 18) { 
-//     System.out.println("Olet alaikäinen");
-// }
-// else {
-//     System.out.println("Olet aikuinen");
-// }
-
-// if (ika > 0 && ika < 18) {
-//     System.out.println("Olet alaikäinen");
-//     }
-//     else if (ika >= 65){
-//         System.out.println("Olet eläkeläinen");
-//     }
-//     else
-//     {
-//         System.out.println("Olet aikuinen");
-//     }
-
 //Tehtävä 1: Laajenna ohjelmaa siten, että ohjelma osaa kertoa 16-17-vuotiaille, että he voivat ajaa kevaria.
 //Tehtävä 2: Laajenna ohjelmaa niin, että se kertoo 18-vuotiaalle, että hän on juuri tullut täysi-ikäiseksi ja saa ajaa autoa.
 //Tehtävä 3: Laajenna tehtävää niin, että aikuisille ilmoitetaan tasavuosikymmenistä onnentoivotus.
@@ -65,3 +46,4 @@ public class App {
     }
 
 }
+
